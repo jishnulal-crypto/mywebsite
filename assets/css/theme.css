@@ -487,7 +487,7 @@ h1.wlc-filltext {
     background-size: cover;
 }
 .about-img-section1{
-    background-image: url(assets/img/bg/about-bg.png) !important;
+    background-image: url(../img/about/about1.png);
     background-size: cover;
     background-position: center
 }
